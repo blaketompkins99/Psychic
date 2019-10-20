@@ -1,5 +1,4 @@
 # Psychic
-# Responsive-Portfolio
 ## Homework #3
 
 
